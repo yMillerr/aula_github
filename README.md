@@ -1,1 +1,7 @@
-<h1 style="text-aling:center;"> Hello World </h1>
+### Aula de Git & Github
+
+This stage I learnig
+
+- Git init
+- Git add and Commint changes
+- Show commits log.
